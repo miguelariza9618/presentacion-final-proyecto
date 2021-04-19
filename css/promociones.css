@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  font-size: 30px; }
+
+.promo {
+  display: flex;
+  justify-content: space-around;
+  margin: 1rem; }
+  .promo img {
+    margin: 2rem;
+    align-items: center; }
+  .promo .card {
+    display: flexbox;
+    border: solid black 3px;
+    height: 20%;
+    width: 100%;
+    flex-wrap: nowrap;
+    align-items: center;
+    margin: 1rem;
+    padding: 2rem; }
+    .promo .card .combo {
+      padding: 1rem;
+      margin: 1rem;
+      width: 100%;
+      height: 100%;
+      transition: all 2s;
+      justify-content: center; }

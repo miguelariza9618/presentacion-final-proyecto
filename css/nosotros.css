@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  text-decoration: double;
+  font-style: oblique;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; }
+
+.nosotros1 {
+  font-size: 25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: justify; }
+
+.mision1 {
+  font-size: 25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: justify; }
+
+.vision1 {
+  font-size: 25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: justify; }
+
+h2 {
+  font-size: 30px;
+  font-style: oblique;
+  color: blue;
+  text-align: center; }

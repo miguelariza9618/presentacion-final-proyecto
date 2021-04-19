@@ -1,0 +1,118 @@
+.cuerpo{
+    text-align: center;
+}
+
+.NuestrosProductos1{
+    display: inline-flex;
+    flex-direction: row;
+    font-size: 25px;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    li{
+        display: grid;
+        grid-column: 3;
+        border-image: solid;
+        text-align: center;
+        justify-content: space-around;
+        border: solid black 1px;
+        justify-items: center;
+        
+        
+    }
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;    
+    padding: 1%;
+}
+.PortatilHp{
+    border: solid black 2px;
+    padding: 1%;
+    margin: 5%;
+    width: 2rem;
+    height: 2rem;
+    transition: all 2s;
+}
+
+.card{
+    border: solid black 2px;
+    height: 20%;
+    width: 120%;
+    
+}
+
+
+.PortatilLenovo{
+    border: solid black 2px;
+    padding: 1%;
+    margin: 5%;
+    width: 40%;
+    height: 100%;
+    transition: all 2s;
+}
+
+
+
+.ImpresoraHP{
+    
+    padding: 1%;
+    margin: 5%;
+    width: 100%;
+    height: 100%;
+    transition: all 2s;
+}
+
+
+
+
+.ImpresoraEpson{
+    
+    padding: 1%;
+    margin: 5%;
+    width: 100%;
+    height: 100%;
+    transition: all 2s;
+}
+
+
+.Impresoras1{
+    display: flex;
+    justify-content: space-around;    
+}
+
+.Portatiles1{
+    display: flex;
+    justify-content: space-around;
+}
+  
+.PortatilLenovo {
+    border: solid black 2px;
+    padding: 1%;
+    margin: 5%;
+    width: 40%;
+    height: 100%;
+    transition: all 2s; 
+}
+  
+  .ImpresoraHP {
+    padding: 1%;
+    margin: 5%;
+    width: 100%;
+    height: 100%;
+    transition: all 2s; }
+  
+  .ImpresoraEpson {
+    padding: 1%;
+    margin: 5%;
+    width: 100%;
+    height: 100%;
+    transition: all 2s; }
+  
+  .Impresoras1 {
+    display: flex;
+    justify-content: space-around; }
+  
+  .Portatiles1 {
+    display: flex;
+    justify-content: space-around; }
